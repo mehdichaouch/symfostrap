@@ -1,5 +1,5 @@
-Symfony Standard Edition
-========================
+[Symfony Standard Edition](https://github.com/symfony/symfony) with [Bootstrap](https://github.com/twbs/bootstrap)
+==================================================================================================================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
